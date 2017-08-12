@@ -26,9 +26,10 @@ keywords: python, emacs, vim, programming, c, elisp
 
 ##Some commonly used links
 links:
-  twitter: edenkl1
-  email: edenkl8@gmail.com
-  github: edenkl8
+  facebook: username
+  twitter: username
+  email: username@gmail.com
+  github: username
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
 ##about_image: placeholder.jpg
