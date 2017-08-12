@@ -1,1 +1,14 @@
+---
+layout: post
+title:  "WELCOME"
+date:   2017-08-12 16:27:22
+categories: welcome
+---
 
+## WELCOME
+
+Hi everybody,
+My name is Eden and I love programming,
+I particularly love emacs and java so I want to share it with everybody.
+
+I will mostly write about my favorites(i.e. python and emacs) but when I come accross something exciting I will most probably write a post about it to share it with the world
