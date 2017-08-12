@@ -3,7 +3,7 @@ name: Edens blog
 ##Markdown processor
 markdown: kramdown
 ##syntax highlighter. change it to pygments
-highlighter: pygments
+highlighter: rouge
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
 base_url: https://edenkl8.github.io
